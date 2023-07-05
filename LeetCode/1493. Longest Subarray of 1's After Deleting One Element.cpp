@@ -1,5 +1,7 @@
 // Problem Link: https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 
+// Concepts: Sliding Window
+
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
