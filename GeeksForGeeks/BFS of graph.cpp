@@ -1,6 +1,6 @@
 // Problem Link: https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/0
 
-// Concepts: Graphs,BFS
+// Concepts: Graph,BFS
 
 class Solution {
   public:
